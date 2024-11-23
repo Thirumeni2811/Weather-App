@@ -110,7 +110,7 @@ const Home = () => {
     return (
         <>
             <section className='bg-secondary h-svh flex justify-center items-center'>
-                <div className='xs:w-full xs:h-screen sm:w-3/5 md:w-6/12 xl:w-1/4 bg-primarybg shadow-2xl p-4 py-8 xs:py-4 rounded-2xl'>
+                <div className='xs:w-full xs:h-svh sm:w-3/5 md:w-6/12 xl:w-1/4 bg-primarybg shadow-2xl p-4 py-8 xs:py-4 rounded-2xl'>
 
                     {/* Search Bar */}
                     <form>
